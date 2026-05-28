@@ -1,0 +1,9 @@
+.animeList{
+  flex-wrap: wrap;
+  height: auto;
+}
+
+.searchtext{
+  margin: 16px;
+  font-size: 1.2rem;
+}
