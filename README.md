@@ -1,0 +1,1 @@
+# satverse-animeinfo
