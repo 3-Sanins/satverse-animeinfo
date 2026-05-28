@@ -134,7 +134,7 @@ function createCard(n, title, url, status, score, category) {
 }
 
 function direct(n){
-  window.location.href=`/anime.html?id=${n}`;
+  window.location.href=`anime.html?id=${n}`;
 }
 
 
