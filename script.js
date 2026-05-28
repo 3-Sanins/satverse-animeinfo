@@ -157,7 +157,7 @@ search.addEventListener("keydown", function (event) {
     typed=search.value.trim();
     if (typed){
       console.log(typed);
-      window.location.href= `/info.html?search=${typed}`;
+      window.location.href= `info.html?search=${typed}`;
     }
   }
 })
